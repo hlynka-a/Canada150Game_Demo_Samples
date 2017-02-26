@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DemoProject02\Scripts\ClickObject.cs">
+    <Files>
+      <File FileName="Assets\DemoProject01\Scripts\Player_Move_CC.cs" Line="1" Column="1" />
+      <File FileName="Assets\DemoProject01\Scripts\RestartLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\DemoProject02\Scripts\Camera_FirstPerson.cs" Line="19" Column="38" />
+      <File FileName="Assets\DemoProject02\Scripts\StateMachineManager.cs" Line="48" Column="67" />
+      <File FileName="Assets\DemoProject02\Scripts\ClickObject.cs" Line="25" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
